@@ -11,11 +11,10 @@ The full documentation of the resulting policy recommendations from this work ca
 
 ## AUTHORS
 
-* Matthew McAteer
-* Clark Wood
-* Harrison Hu
-* Xiaoyue Gong
-* Greg Dreifus
-
+* [Matthew McAteer](https://www.linkedin.com/in/matthewmcateer0/)
+* [Greg Dreifus](https://www.linkedin.com/in/gregory-dreifus-82573213a/)
+* [Xiaoyue Gong](https://www.linkedin.com/in/xiaoyuegong/)
+* [Harrison Hur](https://www.linkedin.com/in/harrison-hur/)
+* [Clark Wood](https://www.linkedin.com/in/clark-wood/)
 
 ![Twitter Announcement](https://github.com/matthew-mcateer/MIT_Policy_Hackathon/blob/master/Tweet.PNG)
