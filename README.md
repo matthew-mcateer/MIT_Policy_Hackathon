@@ -18,4 +18,4 @@ The full documentation of the resulting policy recommendations from this work ca
 * Greg Dreifus
 
 
-[Twitter Announcement](https://github.com/matthew-mcateer/MIT_Policy_Hackathon/Tweet.PNG)
+![Twitter Announcement](https://github.com/matthew-mcateer/MIT_Policy_Hackathon/blob/master/Tweet.PNG)
